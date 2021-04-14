@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Layout", "Layout\Layout.csproj", "{4375218B-935E-42E5-8E06-0DD7DFAA05F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C80F02EB-4577-4ED1-813D-DADC55FFD8FD}"
+	ProjectSection(SolutionItems) = preProject
+		custom1.html = custom1.html
+		custom2.html = custom2.html
+		style.css = style.css
+		style1.css = style1.css
+		style2.css = style2.css
+		w2_css_layout.html = w2_css_layout.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4375218B-935E-42E5-8E06-0DD7DFAA05F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4375218B-935E-42E5-8E06-0DD7DFAA05F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4375218B-935E-42E5-8E06-0DD7DFAA05F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4375218B-935E-42E5-8E06-0DD7DFAA05F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E91FE0F1-73DC-4C07-8419-8A75E3E3A425}
+	EndGlobalSection
+EndGlobal

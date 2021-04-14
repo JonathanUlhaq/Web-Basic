@@ -1,0 +1,103 @@
+﻿
+body{
+    background-color:darkcyan;
+    padding-left:50px;
+    padding-right:50px;
+}
+
+
+.container{
+     background-color:white;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:auto;
+    margin-top:auto;
+    text-align:justify;
+
+     padding-left:50px;
+    padding-right:50px;
+
+
+
+
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.banner1{
+
+    height:400px;
+
+    width:600px;
+
+    background-image:url("ga.png");
+}.banner2{
+
+    height:400px;
+
+    width:600px;
+
+    background-image:url("p.png");
+}.banner3{
+
+    height:400px;
+
+    width:600px;
+
+    background-image:url("d.png")
+}.banner4{
+
+   height:400px;
+
+    width:600px;
+
+    background-image:url("jav.png")
+
+}
+.banner6 {
+    height: 400px;
+    width: 790px;
+    background-image: url("f.png")
+}
+
+
+ .header ul li a{
+
+     text-decoration:none;
+
+     font-size:15px;
+
+     color:bisque;
+
+
+ }
+
+ .header ul li {
+
+          display:inline-block;
+          padding-bottom:10px;
+          padding-left:5px;
+ }
+
+ .header{
+
+     background-color:darkcyan;
+     text-align:center;
+ }
+
+ .header h1{
+
+    color:white;
+    padding-top:20px;
+
+    
+ }
+
+    .header ul li a:hover {
+        color: white;
+    }
+
+    .footer{
+        padding-bottom:10px;
+        text-align:center;
+    }
+
